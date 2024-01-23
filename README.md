@@ -13,3 +13,4 @@ This Python script generates random proxies of specified types and saves them to
 - pip3 install -r requirements.txt
 - Python3 Trixproxy.py
   
+Join My Telegram Channel:- https://t.me/Trixsec
